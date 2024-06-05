@@ -1,0 +1,46 @@
+.images {
+    width: 150px;
+    vertical-align: middle;
+}
+
+.mainDiv {
+    background-image: url("/Images/Links\ background.png");
+    background-color: #D9D4C9;
+    background-size: cover;
+    border: 5px black solid;
+    height: 800px;
+    width: 360px;
+    text-align: center;
+}
+
+.buttonsContainer {
+    position: relative;
+}
+
+.linksButtons {
+    font-family: Roboto, sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    color: #000000;
+    background-color: #ffffff;
+    padding: 10px 80px;
+    border: solid #ffffff 2px;
+    box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
+    border-radius: 10px;
+    transition: 1000ms;
+    transform: translateY(0);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+    margin: auto;
+}
+
+.linksButtons:hover {
+    transition: 1000ms;
+    padding: 10px 93px;
+    transform: translateY(-0px);
+    background-color: #ffffff00;
+    color: #ffffff;
+    border: solid 2px #d9d4c9;
+}
