@@ -44,8 +44,8 @@
 
 .linksButtons:hover {
     transition: 1000ms;
-    padding: 10px 93px;
-    transform: translateY(-0px);
+    padding: 12px 82px;
+    transform: translateY(0px);
     background-color: #ffffff00;
     color: #ffffff;
     border: solid 2px #d9d4c9;
