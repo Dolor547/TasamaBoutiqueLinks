@@ -1,7 +1,7 @@
 async function sharePage() {
     const shareData = {
         title: "Tasama Boutique",
-        text: "Second Hand & Vintage Boutiqoue",
+        text: "Second Hand & Vintage Boutiqoue ",
         url: "https://dolor547.github.io/TasamaBoutiqueLinks/",
       };
 
