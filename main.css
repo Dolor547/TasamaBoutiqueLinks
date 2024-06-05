@@ -12,11 +12,11 @@
 }
 
 .mainDiv {
-    background-image: url("/Images/Links\ background.png");
+    background-image: url("Images/Links\ background.png");
     background-color: #D9D4C9;
     background-size: cover;
-    height: 800px;
-    width: 360px;
+    height: 820px;
+    width: 390px;
     text-align: center;
 }
 
@@ -25,14 +25,14 @@
 }
 
 .linksButtons {
-    font-weight: 600;
+    font-weight: 500;
     font-size: 14px;
     color: #000000;
     background-color: #ffffff;
     padding: 10px 80px;
     border: solid #ffffff 2px;
     box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
-    border-radius: 10px;
+    border-radius: 50px;
     transition: 1000ms;
     transform: translateY(0);
     display: flex;
